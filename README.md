@@ -89,6 +89,6 @@ To protect against academic malpractice/copyright, I have not included the datab
 
 Affan -  affank1020@gmail.com
 
-Project Link: [https://github.com/affank1020/buzzer-beater-tk](https://github.com/affank1020/buzzer-beater-tk)
+Project Link: [https://github.com/affank1020/ai-spam-filter](https://github.com/affank1020/ai-spam-filter)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
